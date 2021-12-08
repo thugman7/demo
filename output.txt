@@ -1,1 +1,2 @@
 This is an output file
+This is another way of checking branch feature.

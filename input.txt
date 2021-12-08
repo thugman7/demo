@@ -1,2 +1,3 @@
 This is an input file.
 This is another line.
+This is to check the branch feature.
